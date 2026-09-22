@@ -1,4 +1,94 @@
-* {
-  color: red;
-  background-color: blue;
+body {
+  background-color: #b79595e1;
+}
+body {
+  background-color: #b79595e1;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+nav {
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 15px;
+  font-size: 20px;
+}
+
+section {
+  min-height: 100vh;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+#profile h1 {
+  color: antiquewhite;
+  text-align: center;
+}
+
+#profile p {
+  color: beige;
+  text-align: center;
+}
+
+#skills {
+  background-color: #c5aaaa;
+}
+
+#projects {
+  background-color: #b99f9f;
+}
+
+#contact {
+  background-color: #c9b0b0;
+}
+#profile {
+  h1 {
+    color: antiquewhite;
+    text-align: center;
+  }
+  p {
+    color: beige;
+    text-align: center;
+  }
+}
+header {
+  h2 {
+    color: rgb(145, 85, 6);
+    text-align: center;
+  }
+}
+#skills {
+  h2 {
+    color: bisque;
+    text-align: center;
+  }
+  ul {
+    color: rgba(44, 76, 8, 0.338);
+    text-align: center;
+  }
+}
+#projects {
+  h2 {
+    color: rgb(102, 122, 60);
+    text-align: center;
+  }
+  ul {
+    color: rgb(102, 122, 60);
+    text-align: center;
+  }
+}
+#contact {
+  h2 {
+    color: #bc2828e1;
+    text-align: left;
+    font-size: 20px;
+  }
 }
